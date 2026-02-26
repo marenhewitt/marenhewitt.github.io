@@ -3,6 +3,8 @@
 }
 
 .sidebar {
+    font-size: x-large;
+    line-height: 1.5;
     height: 100%;
     width: 150px;
     position: absolute;
@@ -11,6 +13,14 @@
     background-color: #eeeeee;
     padding: 10px;
     box-sizing: border-box;
+}
+
+.sidebar-img {
+    margin: auto;
+    height: 100px;
+    width: auto;
+    background-color: transparent;
+    padding: 10px;
 }
 
 .content {
