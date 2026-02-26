@@ -1,2 +1,8 @@
 name: homepage
 link: index.html
+
+name: about
+link: about.html
+
+name: contact
+link: contact.html
