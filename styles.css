@@ -22,3 +22,20 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
+
+footer {
+    text-align: center;
+    background-color: #e4ccea;
+}
+
+.footer-content {
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+footer img {
+    height: 30px;
+    width: auto;
+    margin: 3px;
+}
