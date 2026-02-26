@@ -16,3 +16,9 @@
 .content {
     margin-left: 150px;
 }
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
