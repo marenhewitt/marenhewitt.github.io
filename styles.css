@@ -24,7 +24,8 @@
 }
 
 .content {
-    margin-left: 150px;
+    margin-left: 170px;
+    margin-right: 50px;
 }
 
 a {
@@ -49,3 +50,10 @@ footer img {
     width: auto;
     margin: 3px;
 }
+
+/*
+.courses {
+
+}
+*/
+
