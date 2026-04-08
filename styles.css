@@ -35,6 +35,25 @@ a {
     background-color: transparent;
 }
 
+.project {
+    font-size: large;
+}
+
+.project a {
+    font-size: larger;
+    font-weight: bold;
+    color: #5b164f;
+}
+
+.project img {
+    width: 20%;
+    height: auto;
+}
+
+.project p {
+    font-size: medium;
+}
+
 footer {
     text-align: center;
     background-color: #e4ccea;
